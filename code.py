@@ -88,7 +88,7 @@ def printStatus(statusDictonary, terminatingString="::"):
         else:
             print(terminatingString, end="")
             
-# A list of streams with their initial values of 'orderNo's
+# A list of streams each with an initial value of 'orderNo'
 streams=[{"stream":"0","orderNo":1}, {"stream":"1","orderNo":1}, {"stream":"2","orderNo":1}]          
 
  
